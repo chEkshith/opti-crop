@@ -1,7 +1,7 @@
 
 ### `README.md`
 
-```markdown
+
 # 🌱 OptiCrop: Smart Agricultural Production Optimization Engine
 
 OptiCrop is an end-to-end, production-grade machine learning application designed to maximize agricultural resource efficiency and crop yield. By analyzing key soil nutrient metrics and ambient environmental factors, OptiCrop removes historical agricultural guesswork and accurately identifies the optimal, highest-yielding crop for any given plot of land.
@@ -40,7 +40,7 @@ OptiCrop uses a structured **Client-Server Architecture** designed with a strict
 
 ```
 ---
-```
+
 ## 📊 Dataset & Features Explained
 
 The engine trains on a balanced dataset containing **2,200 historical crop records** (100 uniform samples per crop type). The system processes 7 core environmental features to establish predictions:
@@ -76,7 +76,7 @@ During execution, the training suite evaluates multiple classic supervised parad
 * **K-Means Clustering** ($K=5$) is executed on scaled subsets to successfully extract macro regional climate structures automatically.
 ```
 ---
-
+```
 ## 📂 Project Workspace Directory Structure
 
 Maintain the following file distribution to ensure paths map seamlessly during execution:
